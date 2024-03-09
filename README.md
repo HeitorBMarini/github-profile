@@ -9,7 +9,7 @@ Este projeto é uma aplicação web construída utilizando as tecnologias :
 
 ## Descrição
 
-Este projeto permite aos usuários visualizar perfis no GitHub, além de buscar repositórios e pesquisar outros usuários na plataforma. Integrando diretamente com a API do GitHub, o projeto oferece uma maneira elegante e eficiente para explorar informações e projetos hospedados no GitHub.
+Este projeto permite aos usuários visualizar perfis no GitHub. Integrando diretamente com a API do GitHub, o projeto oferece uma maneira elegante e eficiente para explorar informações e projetos hospedados no GitHub.
 
 Funcionalidades principais:
 
@@ -25,6 +25,11 @@ O deploy do projeto foi realizado na Vercel, garantindo alta performance e escal
 
 Confira o projeto : [Link do projeto ](https://github-profile-woad.vercel.app)
 
+
 ---
 
+
+
 Este projeto é um exemplo poderoso do que pode ser alcançado com a combinação de Tailwind CSS, Next.js 14, TypeScript, e a flexibilidade da plataforma de hospedagem Vercel.
+
+![Github profile](demo/GithubProfile.gif)

@@ -15,15 +15,15 @@ export type GithubProfileType ={
     "repos_url": string;
     "events_url": string;
     "received_events_url": string;
-    "type": "User";
+    "type": string;
     "site_admin": boolean;
     "name": string;
     "company": string;
-    "blog": "";
+    "blog": string;
     "location": string;
     "email": string;
     "hireable": boolean;
-    "bio": "ADS FIAP /\r\nFull Stack Developer\r\nLocation on São Paulo - Brazil.\r\n";
+    "bio": string;
     "twitter_username": string;
     "public_repos": number;
     "public_gists":number;
